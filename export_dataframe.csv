@@ -1,0 +1,1001 @@
+country,fullname,points,rank,region
+Canada,JEFFREY ADLER,101,1,North America
+United States,SCOTT PANCHIK,141,2,North America
+United States,TRAVIS MEAD,165,3,North America
+United States,SAXON PANCHIK,217,4,North America
+United States,RICHARD FRONING JR.,254,5,North America
+United States,NOAH OHLSEN,272,6,North America
+Canada,SAMUEL COURNOYER,276,7,North America
+United States,COLE GREASHABER,403,8,North America
+Argentina,AGUSTIN RICHELME,417,9,South America
+United Kingdom,OLEG LASCENKO,428,10,Europe
+Canada,CÉDRIC LAPOINTE,454,11,North America
+Greece,GIORGOS KARAVIS,510,12,Europe
+Russian Federation,STAS SOLODOV,548,13,Asia
+Finland,JONNE KOSKI,564,14,Europe
+United Kingdom,ELLIOT SIMMONDS,582,15,Europe
+United States,LOGAN COLLINS,589,16,North America
+Australia,JAY CROUCH,611,17,Oceania
+United States,COLTEN MERTENS,621,18,North America
+United States,JAYSON HOPPER,630,19,North America
+Canada,PATRICK VELLNER,638,20,North America
+Greece,ALEX KOTOULAS,642,21,Europe
+Canada,BRENT FIKOWSKI,644,22,North America
+United States,HUNTER HOLIFIELD,702,23,North America
+United States,CODY ANDERSON,708,24,North America
+United States,MITCH WAGNER,708,24,North America
+United States,PHIL TOON,741,26,North America
+Russian Federation,ALEKSANDAR ILIN,748,27,Asia
+United Kingdom,JOSHUA AL-CHAMAA,749,28,Europe
+Denmark,FREDERIK AEGIDIUS,749,28,Europe
+United States,SPENCER PANCHIK,753,30,North America
+Spain,FABIAN BENEITO,769,31,Europe
+United States,SEAN GORDON,807,32,North America
+Australia,KHAN PORTER,812,33,Oceania
+Serbia,LAZAR ĐUKIĆ,817,34,Europe
+United States,MICHAEL MCKENNA,817,34,North America
+Denmark,LUKAS GROULEFF,834,36,Europe
+United States,NICK MATHEW,850,37,North America
+United Kingdom,REGGIE FASA,854,38,Europe
+United States,TYLER CHRISTOPHEL,864,39,North America
+France,LUCAS HEUZE,868,40,Europe
+United States,COLE SAGER,888,41,North America
+United States,BRANDON LUCKETT,889,42,North America
+United States,MITCHEL STEVENSON,901,43,North America
+United States,CONNOR DUDDY,951,44,North America
+Canada,JOSHUA GERVAIS,959,45,North America
+France,GUILLAUME BRIANT,963,46,Europe
+United States,SCOTT TETLOW,1010,47,North America
+United States,ANDREW HILLER,1012,48,North America
+United States,TAYLOR SELF,1056,49,North America
+United States,VINCENT BUTTITTA,1060,50,North America
+Russian Federation,IAKOV FILIMONOV,1061,51,Asia
+Venezuela,OMAR MARTINEZ,1075,52,South America
+United States,TIM PAULSON,1091,53,North America
+United States,JAKE BERMAN,1123,54,North America
+Australia,BAYDEN BROWN,1146,55,Oceania
+United States,AARON HANNA,1148,56,North America
+United States,JUSTIN MEDEIROS,1156,57,North America
+Denmark,ANDRÉ HOUDET,1157,58,Europe
+United States,CHANDLER SMITH,1170,59,North America
+United States,STREAT HOERNER,1197,60,North America
+Poland,BRONISLAW OLENKOWICZ,1211,61,Europe
+United States,ROGELIO GAMBOA,1248,62,North America
+Russian Federation,ROMAN KHRENNIKOV,1304,63,Asia
+United States,TANNER BALAZS,1311,64,North America
+Canada,NYCOLAS JOYAL,1331,65,North America
+China,ZHENHUA ZHOU,1336,66,Asia
+Canada,ALEXANDRE CARON,1344,67,North America
+United States,DANE SMITH,1374,68,North America
+Canada,PETER SHAW,1406,69,North America
+Ireland,SAM STEWART,1410,70,Europe
+Chile,PIERO GORICHON,1416,71,South America
+New Zealand,LUKE FISO,1422,72,Oceania
+Iceland,BJÖRGVIN KARL GUÐMUNDSSON,1440,73,Europe
+Serbia,LUKA ĐUKIĆ,1460,74,Europe
+United States,LEONEL FRANCO,1467,75,North America
+Sweden,VICTOR LJUNGDAL,1479,76,Europe
+France,ALEXANDRE PINSOLLE,1482,77,Europe
+United States,PETER MASON,1489,78,North America
+United Kingdom,WILL KANE,1491,79,Europe
+United States,FRANK MINERVINI,1492,80,North America
+United States,DREW WAYMAN,1538,81,North America
+United States,DYLAN PETTIT,1548,82,North America
+South Africa,KEALAN HENRY,1554,83,Africa
+Brazil,GUILHERME MALHEIROS,1569,84,South America
+Iceland,HARALDUR HOLGERSSON,1599,85,Europe
+United States,JOSH WORKMAN,1604,86,North America
+Egypt,MOHAMED ELOMDA,1616,87,Africa
+Germany,FELIX REHDER,1646,88,Europe
+New Zealand,LUKE FOWLER,1662,89,Oceania
+Canada,TYLER LEE,1686,90,North America
+United States,JAKE MARCONI,1699,91,North America
+United States,CHRISTOPHER SHIMLEY,1701,92,North America
+France,FELLONNEAU ROMAIN,1708,93,Europe
+United States,DYLAN MARTIN,1716,94,North America
+United States,DALLIN PEPPER,1721,95,North America
+United States,TRAVIS MAYER,1731,96,North America
+United States,DALTON MANKIN,1749,97,North America
+United States,REILLY GOOD,1810,98,North America
+Latvia,ULDIS UPENIEKS,1833,99,Europe
+Australia,MATT MCLEOD,1834,100,Oceania
+Spain,DANIEL CAMACHO,1846,101,Europe
+United States,MARK HUTCHINSON,1855,102,North America
+Spain,ANIOL EKAI,1861,103,Europe
+Australia,EVAN MORRIS,1866,104,Oceania
+United States,PHILLIP MUSCARELLA,1876,105,North America
+United States,KYLE BERNIER,1908,106,North America
+United States,JOE PIERRO,1914,107,North America
+Slovakia,MATÚŠ KOČAR,1938,108,Europe
+Brazil,PEDRO MARTINS,1946,109,South America
+Spain,DAMI MARTÍNEZ,1947,110,Europe
+United States,BLAIR CHAPMAN,1965,111,North America
+United States,TROY KOPP,1975,112,North America
+Russian Federation,DENIS ZALOZNIY,1988,113,Asia
+Portugal,TIAGO LUZES,1990,114,Europe
+Chile,BENJAMIN GUTIERREZ,2045,115,South America
+United States,ERIC EVANS,2047,116,North America
+Australia,ZEKE GROVE,2107,117,Oceania
+Canada,ALEX VIGNEAULT,2113,118,North America
+Belarus,NIKITA YUNDOV,2132,119,Europe
+France,ANTOINE TAMI,2133,120,Europe
+Poland,PIOTR MIELCZAREK,2137,121,Europe
+United States,AUSTIN SPENCER,2137,121,North America
+Australia,ROB FORTE,2141,123,Oceania
+Venezuela,GUSTAVO ERRICO,2144,124,South America
+Canada,KYLE CANT,2159,125,North America
+Australia,HAYDEN LAVANDA,2165,126,Oceania
+Poland,PIOTR SZCZYCINSKI,2170,127,Europe
+Brazil,ANDERON PRIMO,2197,128,South America
+Germany,JOSHUA WICHTRUP,2197,128,Europe
+Sweden,OSCAR NEVERMANN,2212,130,Europe
+United States,HAL FISHER,2213,131,North America
+Brazil,KAIQUE CERVENY,2217,132,South America
+France,CLINT KOHL,2228,133,Europe
+Sweden,VIKTOR LANGSVED,2267,134,Europe
+France,ELIOTT GENIN,2268,135,Europe
+Colombia,JULIAN SERNA,2290,136,South America
+Finland,HENRIK HAAPALAINEN,2301,137,Europe
+United States,KYLE KASPERBAUER,2309,138,North America
+Austria,VICTOR SCHROEDER,2310,139,Europe
+Russian Federation,IVAN KUKARTSEV,2317,140,Asia
+United States,AUSTIN NEDELCOFF,2318,141,North America
+Italy,LA ROBINA MICHELE,2327,142,Europe
+United States,ERIC CARMODY,2329,143,North America
+Canada,STEVE BRISCOE,2331,144,North America
+United States,JEFF PATZER,2337,145,North America
+United States,TRAVON BENTON,2344,146,North America
+Mexico,NATANAEL PEREZ,2349,147,North America
+Canada,DAVID CYR-MARANDA,2357,148,North America
+Germany,HENDRIK SENF,2360,149,Europe
+United States,JAMES MCLAUGHLAN,2397,150,North America
+United States,COLBY THOMASON,2413,151,North America
+Iceland,SIGURDUR JONSSON,2416,152,Europe
+Sweden,SIMON MANTYLA,2453,153,Europe
+United States,DAN BAILEY,2470,154,North America
+United States,JASON CARROLL,2474,155,North America
+United States,KEVIN STEINHAUS,2483,156,North America
+United States,SEAN SWEENEY,2486,157,North America
+Poland,PAWEL KOZAK,2497,158,Europe
+United States,NIKLAS HECHT,2540,159,North America
+Poland,MICHAL WESOLOWSKI,2570,160,Europe
+Brazil,PABLO CHALFUN,2593,161,South America
+Germany,MAXIMILIAN HENZE,2596,162,Europe
+Italy,PIETRO ANDERLONI,2629,163,Europe
+United States,JACOB PFAFF,2634,164,North America
+Colombia,GIOVANNI OCAMPO,2634,164,South America
+New Zealand,BEN FOWLER,2654,166,Oceania
+Canada,STEPHEN JONES,2655,167,North America
+Australia,ADAM MANSY,2659,168,Oceania
+United States,ANGEL RODRIGUEZ,2660,169,North America
+"Korea, Republic of",JOSHUA HONG,2671,170,Asia
+United States,JAMES SPRAGUE,2672,171,North America
+Spain,BRYAN HERNÁNDEZ,2731,172,Europe
+United States,SPENCER AREY,2751,173,North America
+Germany,MORITZ FIEBIG,2759,174,Europe
+Argentina,DAN PAOLINI,2759,174,South America
+United States,MARQUAN JONES,2765,176,North America
+Italy,STEFANO ZUCCHIATTI,2788,177,Europe
+France,JAISON LONGEARET,2797,178,Europe
+United States,CHRISTIAN HARRIS,2826,179,North America
+Sweden,MARCUS ERIXON,2833,180,Europe
+United States,KEANU REDONGO,2852,181,North America
+Sweden,PONTUS FORSBERG,2881,182,Europe
+United States,ROSS BARR,2901,183,North America
+Poland,JAKUB CIEŚLIK,2930,184,Europe
+Poland,RADOSLAW WRECZYCKI,2931,185,Europe
+United States,MATT DLUGOS,2951,186,North America
+United Kingdom,ANDREW MCCOY,2960,187,Europe
+Palestinian Territory,HAMZEH TAREFI,2965,188,Asia
+United Kingdom,ZACK GEORGE,2982,189,Europe
+Australia,MATT GILPIN,3021,190,Oceania
+United States,ANDREW MARTIN,3029,191,North America
+Switzerland,LUKAS ESSLINGER,3030,192,Europe
+Croatia,AUGUSTIN VILIČNIK,3030,192,Europe
+United States,GAGE HANNAH,3031,194,North America
+United States,DYLAN MURRELL,3033,195,North America
+Argentina,MAXIMILIANO ARIGOSSI,3062,196,South America
+Greece,IOANNIS PAPADOPOULOS,3090,197,Europe
+United States,GARRETT CLARK,3091,198,North America
+Brazil,LUCAS ALMEIDA,3108,199,South America
+United States,SERGIO BRICENO,3139,200,North America
+United States,JOHN WOOD,3155,201,North America
+Uruguay,SANTIAGO COMBA,3155,201,South America
+Canada,MAXIME ROY DE SYLVA,3158,203,North America
+United States,PARKER FOSTER,3159,204,North America
+Spain,FERNANDO MARTIN,3173,205,Europe
+United States,BEN SMITH,3207,206,North America
+Germany,KEVIN WINKENS,3234,207,Europe
+United States,CHRISTIAN RAMON,3244,208,North America
+United States,ALEC SMITH,3257,209,North America
+Russian Federation,MARSEL SHAKIROV,3269,210,Asia
+Russian Federation,ALEKSANDR PLYUSHKIN,3281,211,Asia
+Canada,MICHAEL LAVERRIERE,3286,212,North America
+Brazil,THAINÃ TOMA,3311,213,South America
+Hungary,KRISTÓF HORVÁTH,3314,214,Europe
+France,ARTHUR SATIS,3320,215,Europe
+United States,CAM CROCKETT,3322,216,North America
+Mexico,IRVING HERNANDEZ,3323,217,North America
+Greece,HERCULES BOULIOPOULOS,3352,218,Europe
+Norway,KRISTOFFER WASMUTH,3365,219,Europe
+Ireland,JAMIE HEADON,3365,219,Europe
+Canada,THOMAS MARKHAUSER,3366,221,North America
+Portugal,DAVID TRABULO,3375,222,Europe
+"Korea, Republic of",GEUNJIN KIM,3381,223,Asia
+United States,SAMUEL KWANT,3391,224,North America
+United States,MITCH MCCLUNE,3403,225,North America
+Italy,NICCOLÒ COLLI,3407,226,Europe
+United States,SKYLER OCETNIK,3442,227,North America
+Spain,JAVIER GONZÁLEZ FERNÁNDEZ,3455,228,Europe
+Brazil,LUCAS DA ROSA,3466,229,South America
+United States,LOGAN EWING,3473,230,North America
+United States,EVAN ROGERS,3498,231,North America
+Iceland,THROSTUR OLASON,3499,232,Europe
+Estonia,KEVIN JURS,3501,233,Europe
+United States,WILL MOORAD,3530,234,North America
+Bosnia and Herzegovina,ĐORĐE ĐURIĆ,3532,235,Europe
+United States,CASEY CRABLE,3538,236,North America
+Sweden,TJAPPE GUSTAFSSON,3552,237,Europe
+Denmark,LARS KRISTENSEN,3554,238,Europe
+United States,JAMES HOWELL,3569,239,North America
+United States,NICK ROBERTS,3579,240,North America
+Spain,MARTÍN CUERVO,3596,241,Europe
+United States,TUCKER MCLEMORE,3596,241,North America
+United States,JORDAN TROYAN,3606,243,North America
+Brazil,BRUNO MARINS,3608,244,South America
+United States,JUSTIN AHRENS,3616,245,North America
+Canada,STORM PATTERSON,3630,246,North America
+United States,JOHN-PAUL HETHCOCK,3636,247,North America
+Mexico,ROLDAN GOLDBAUM,3642,248,North America
+Australia,JACK CLARK,3643,249,Oceania
+United States,PARKER JAX,3661,250,North America
+Spain,GENÍS SANTOS CUNILLERA,3668,251,Europe
+United Kingdom,DAN TAI,3670,252,Europe
+Sweden,MAX OLIVESTRAND,3671,253,Europe
+Canada,DAMIAN CONCIATORI,3674,254,North America
+Canada,JOE SCALI,3695,255,North America
+United States,CHASE HILL,3700,256,North America
+Greece,DIMITRIS FOTIOU,3701,257,Europe
+United States,JORDAN LUNDIN,3707,258,North America
+United States,TRAVIS WILLIAMS,3738,259,North America
+United States,WILL BENNETT,3753,260,North America
+United States,GRANT BELROSE,3761,261,North America
+United States,JORGE FERNANDEZ,3770,262,North America
+United States,WILL CARTER,3813,263,North America
+South Africa,JASON SMITH,3828,264,Africa
+Australia,JAKE STANDEN,3837,265,Oceania
+Switzerland,ADRIAN MUNDWILER,3849,266,Europe
+Uruguay,ROLO GOMEZ,3851,267,South America
+Italy,IURII MARINCENCO,3880,268,Europe
+United States,TRISTAN MAIORANO,3910,269,North America
+Australia,RYAN WOODALL,3916,270,Oceania
+United States,NICK BLOCH,3918,271,North America
+Norway,NICOLAY BILLAUDEL,3921,272,Europe
+Germany,RENE BETZHOLZ,3924,273,Europe
+United States,MARSHALL CREED,3935,274,North America
+Canada,ANDREW WINSOR,3941,275,North America
+Switzerland,JONAS MUELLER,3944,276,Europe
+Ukraine,DANYLO BLOSHCHUK,3991,277,Europe
+Peru,LUKAS OZAKI,4014,278,South America
+France,VICTORIEN CHAMPION,4029,279,Europe
+Mexico,MANUEL GALLEGOS,4051,280,North America
+United States,HENRY MATTHEWS,4055,281,North America
+Kyrgyzstan,DENIS SAMSONOV,4062,282,Asia
+Mexico,PEPE BARRERA,4080,283,North America
+Brazil,GUILHERME DOMINGUES,4117,284,South America
+United States,CJ GERALD,4118,285,North America
+United States,AARON KNISLEY,4135,286,North America
+United States,FRANK MASTROIANNI,4177,287,North America
+Spain,GABI CASTRO,4178,288,Europe
+Finland,LUDVIG HAHNSSON,4190,289,Europe
+Australia,REILLY SMITH,4192,290,Oceania
+Italy,MAURO CORRIGA,4206,291,Europe
+Portugal,JOÃO FERREIRA,4211,292,Europe
+United States,BOBBY WALLUM,4212,293,North America
+United States,CLAY FARIS,4229,294,North America
+United States,JACOB SCHMIDT,4233,295,North America
+United States,NORMAN WOODRING,4244,296,North America
+United States,JUSTIN RHODES,4248,297,North America
+United States,COLLIN GARNEK,4249,298,North America
+Australia,BRANDON SWAN,4251,299,Oceania
+Mexico,RAFAEL SANCEN,4281,300,North America
+Canada,SAMUEL PAQUIN,4299,301,North America
+Ireland,PD SAVAGE,4299,301,Europe
+United States,CASEY MCCALLISTER,4300,303,North America
+United States,DUSTIN MCWILLIAMS,4301,304,North America
+United States,ANDRIS STURANS,4317,305,North America
+Australia,KOSTA ILIC,4327,306,Oceania
+United States,BRIAN HARRIS,4340,307,North America
+France,GAUTHIER LACROUX,4345,308,Europe
+United States,MICHAEL EVANS,4347,309,North America
+Mexico,SAMUEL ARAIZA,4352,310,North America
+Italy,TIZIANO CORRIGA,4353,311,Europe
+Spain,JESUS LORENTE,4370,312,Europe
+Australia,REES MACHELL,4386,313,Oceania
+Italy,TOMMASO PIERI,4390,314,Europe
+Slovenia,ROK DERNIKOVIC,4398,315,Europe
+United States,SAM COLTHARP,4399,316,North America
+New Zealand,MICHAEL MIKAERE,4411,317,Oceania
+Iran,MORTEZA SEDAGHAT,4419,318,Asia
+United Kingdom,JAMES ST LEGER,4422,319,Europe
+Spain,PEDRO CRESPO DELGADO,4428,320,Europe
+United States,HOLGER SCHWARTZ,4458,321,North America
+Canada,BENOÎT BOULANGER,4465,322,North America
+United States,JOSHUA MATTES,4477,323,North America
+Canada,FÉLIX-ANTOINE LEMAY,4487,324,North America
+United States,BLAKE SAMA,4496,325,North America
+United States,KOLTON O'DAY,4509,326,North America
+Canada,AUSTIN EVANS,4510,327,North America
+Russian Federation,IGNATY CHOMCHOEV,4515,328,Asia
+Italy,STEFANO DI FRANCESCO,4529,329,Europe
+Czech Republic,MARTIN FEIFERLÍK,4531,330,Europe
+Chile,ESTEBAN CARVALLO,4546,331,South America
+United States,WESLEY RETHWILL,4550,332,North America
+United States,CARLOS ALBALADEJO,4551,333,North America
+France,ALEXANDRE JOLIVET,4555,334,Europe
+United States,ZACHERY BUNTIN,4562,335,North America
+United States,JAMES HOBART,4564,336,North America
+Russian Federation,TIMOFEY PROLUBNIKOV,4570,337,Asia
+Bulgaria,RADOSLAV IVANOV,4591,338,Europe
+Brazil,LUIS FELIPE BASTOS LOPES PORTES,4600,339,South America
+Sweden,ERIK BRORSSON,4602,340,Europe
+United States,DEREK SALTOU,4610,341,North America
+United States,ZACH WATTS,4614,342,North America
+Sweden,EMIL VON GERBER,4616,343,Europe
+Sweden,JOEL LUNDBLAD,4625,344,Europe
+United States,MATT POULIN,4627,345,North America
+Italy,GIOVANNI ANGELOZZI,4641,346,Europe
+United States,JORDAN ROLAND,4643,347,North America
+Canada,JEREMY VIGNEAULT,4653,348,North America
+United States,ADRIAN CONWAY,4656,349,North America
+Denmark,KLAUS HEBO UGGERHOJ,4668,350,Europe
+United States,TRISTAN FAURE,4683,351,North America
+United States,JUSTIN RICHARDSON,4688,352,North America
+Italy,STEFANO CAROSSO,4696,353,Europe
+Poland,WOJCIECH SULIMA,4706,354,Europe
+United States,GUIDO TRINIDAD,4725,355,North America
+United States,BRANDON HORNBACK,4737,356,North America
+United States,BEN DAVIDSON,4738,357,North America
+Spain,XEVI SERRA,4739,358,Europe
+United States,ANGELO BRUSSICH,4747,359,North America
+Greece,KONSTANTINOS PAPADOPOULOS,4752,360,Europe
+Portugal,ANDRÉ TERESINHO,4760,361,Europe
+Uruguay,JUAN MANUEL SEITUN,4771,362,South America
+United States,LUKE PARKER,4780,363,North America
+Germany,JOHN SCHAEFFER,4782,364,Europe
+United States,NICK PETERSEN,4792,365,North America
+Greece,MIKE DIMITRAKOPOULOS,4798,366,Europe
+United States,QUINN ROBINSON,4800,367,North America
+United States,JAIME BIGORNIA,4801,368,North America
+Canada,DOMINIC TREPANIER,4823,369,North America
+Argentina,NICOLAS BIDARTE,4835,370,South America
+New Zealand,STEPHEN MISCHEWSKI,4853,371,Oceania
+Belgium,SVEN GEENS,4857,372,Europe
+United States,JOSHUA GODINEZ,4865,373,North America
+United States,KEITH RUSH,4870,374,North America
+Canada,GAUDREAU NICOLAS,4894,375,North America
+Slovakia,MARTIN KRUZLIC,4901,376,Europe
+United States,GRAHAM WINCHESTER,4905,377,North America
+Mexico,EDER CARRILLO,4905,377,North America
+Mexico,GERMAN CASTRO,4906,379,North America
+United States,RAFF SENCION,4909,380,North America
+Ireland,JOHN WILLIAM,4913,381,Europe
+New Zealand,GENSEN PALMER,4919,382,Oceania
+Spain,BLAS RUIZ GONZALEZ,4945,383,Europe
+United States,NOLAN CAVANAUGH,4945,383,North America
+Australia,ANDREW SAMBELL,4947,385,Oceania
+Sweden,OSCAR TYRBERG,4956,386,Europe
+United States,AUSTIN BOLEN,4967,387,North America
+Brazil,DIEGO SCHMIDT,4976,388,South America
+France,MICKAEL WACH,5013,389,Europe
+Costa Rica,DEREK ADAMS,5020,390,North America
+United States,DANIEL KUC,5032,391,North America
+Russian Federation,VADIM YUNKOV,5042,392,Asia
+United States,JOSH WOODHULL,5047,393,North America
+United States,DERICK SHODA,5051,394,North America
+Germany,ROBERT DOPKE,5051,394,Europe
+Denmark,DANIEL SKOV,5053,396,Europe
+United States,MATT HEWETT,5054,397,North America
+Finland,JOOSUA ESKELINEN,5073,398,Europe
+Australia,DYLAN ROBERTS,5076,399,Oceania
+Russian Federation,IGOR ZUEV,5078,400,Asia
+Ukraine,ILLYA KARCHKOV,5090,401,Europe
+China,YU-SEN ZHU,5092,402,Asia
+Spain,PABLO CAZALIS,5106,403,Europe
+"Korea, Republic of",JOOHWANG LEE,5114,404,Asia
+Argentina,MARIANO BILBAO,5133,405,South America
+United States,MICHAEL PALOMBA,5136,406,North America
+"Korea, Republic of",SEUNGJONG KIM,5149,407,Asia
+United States,JEREMY KANE,5158,408,North America
+United States,SCOTT COTTRILL,5176,409,North America
+Slovakia,PETER KOHUT,5179,410,Europe
+Russian Federation,VLADIMIR SECHIN,5218,411,Asia
+United States,DUSTY SULON,5226,412,North America
+Canada,RICHARD DESCHAMPS,5233,413,North America
+Russian Federation,VLADISLAV KARYAGIN,5240,414,Asia
+South Africa,DARREN ZURNAMER,5242,415,Africa
+Spain,AINGERU SETIEN,5243,416,Europe
+Russian Federation,ILYA MAKAROV,5255,417,Asia
+United States,KENNETH PROVOST,5257,418,North America
+New Zealand,JACK LAKER,5277,419,Oceania
+United States,RYAN SCHAFER,5280,420,North America
+United States,JOHN WESTBROOK,5309,421,North America
+Tunisia,ALEXANDRE BRADLEY,5343,422,Africa
+Canada,JOHNNY HUNKA,5361,423,North America
+Norway,ANDERS GRONSUND,5396,424,Europe
+Canada,MICHAEL SPINETI,5399,425,North America
+United States,JUSTIN MILLER,5408,426,North America
+United States,CORY SPELMAN,5417,427,North America
+United States,RICHIE CARREL,5418,428,North America
+United States,JACOB KIRBY,5445,429,North America
+Ireland,MICHAEL SMITH,5456,430,Europe
+United States,JUSTIN REIDELBACH,5457,431,North America
+United States,ALEX BOZENHARD,5494,432,North America
+Canada,YANN ST-JACQUES,5496,433,North America
+South Africa,BAREND SMIT,5502,434,Africa
+France,GUILLAUME MAGNOUAT,5506,435,Europe
+"Korea, Republic of",KANG KYUNGSUN,5519,436,Asia
+Czech Republic,JAN HANAK,5522,437,Europe
+United States,HARRISON RIGGS,5525,438,North America
+France,CLEMENT JORIS,5546,439,Europe
+Canada,JEREMY LANCTOT,5546,439,North America
+Italy,CRISTIAN RECHICHI,5568,441,Europe
+Australia,NATHAN CORDEN,5569,442,Oceania
+Canada,CONOR OAKLEY,5592,443,North America
+United States,KYLE PETERSON,5594,444,North America
+United States,JOHN COLTEY,5600,445,North America
+South Africa,RICHARD WOLLBOLDT,5601,446,Africa
+United States,JORDY GREMILLION,5608,447,North America
+Australia,NICOLAS FUENTES,5611,448,Oceania
+Spain,FERNANDO LLANEZA PARDILLOS,5631,449,Europe
+Guatemala,JOEL BRAN,5653,450,North America
+Brazil,LEONARDO VERAS,5656,451,South America
+Serbia,LUKA VUNJAK,5660,452,Europe
+China,CHEN SHENG,5670,453,Asia
+United States,BRETT GRELLE,5683,454,North America
+United Kingdom,MAX CAMOZZI,5685,455,Europe
+Argentina,LAGO GUIRALDES,5721,456,South America
+Australia,THOR HAJNAL,5728,457,Oceania
+United States,ANDREW LIZOTTE,5738,458,North America
+United States,RYAN HAYNES,5743,459,North America
+United States,ROBERT WAGNER,5751,460,North America
+Italy,ENRICO ZENONI,5752,461,Europe
+United Kingdom,PAUL MELLORS,5754,462,Europe
+United States,TOLA MORAKINYO,5755,463,North America
+Canada,PAUL TREMBLAY,5756,464,North America
+United States,VICENTE AZUA JR,5758,465,North America
+Mexico,JOSE GARCIA LARRONDO,5759,466,North America
+United States,JEREMY LANCASTER,5769,467,North America
+United Kingdom,JAMIE MARTIN,5774,468,Europe
+Canada,FRÉDÉRIC DUBÉ,5777,469,North America
+United States,BRIAN HUYNH,5778,470,North America
+United States,TOBY JOHNSON,5778,470,North America
+Spain,ADRIAN MAGALLON,5778,470,Europe
+Portugal,HUGO SOUSA,5779,473,Europe
+United States,RONNIE MINERVINI,5781,474,North America
+United States,MAX KUTLER,5784,475,North America
+South Africa,RUAN DUVENAGE,5785,476,Africa
+United States,CHAD KACKERT,5790,477,North America
+United States,KEVIN SCHUETZ,5796,478,North America
+Spain,JAVIER HEREDIA NOGUEROL,5813,479,Europe
+United Kingdom,JACK TURNER,5845,480,Europe
+Morocco,HAMZA MAHIR,5852,481,Africa
+United States,ADAM JOSEPH,5858,482,North America
+Belgium,JELLE HOSTE,5881,483,Europe
+United States,RANDY SANTANA,5899,484,North America
+United States,AUSTIN MALLEOLO,5900,485,North America
+"Korea, Republic of",SEOKBEOM KIM,5919,486,Asia
+Italy,EMANUELE BIVIANO,5919,486,Europe
+Germany,LEON HUFFER,5925,488,Europe
+Israel,YOGEV MELLER,5926,489,Asia
+New Zealand,DANIEL GROOT,5956,490,Oceania
+United States,RICHARD PAUL CASTILLO,5965,491,North America
+Germany,KONSTANTIN GATKE,5966,492,Europe
+United States,AUSTIN MORGAN,5973,493,North America
+France,JULIEN LOPEZ,5976,494,Europe
+United States,CASEY STRONG,5984,495,North America
+Brazil,LUIZ FELIPE OLIVEIRA,5986,496,South America
+Australia,ZAC THOMAS,6018,497,Oceania
+United Kingdom,SAMMY WRIGHT,6061,498,Europe
+United States,MARSHALL KLITZKE,6074,499,North America
+United States,RAYMOND FLESER,6078,500,North America
+United Kingdom,KURTIS JACKSON,6088,501,Europe
+Spain,ROBERTO MOLINA,6095,502,Europe
+Uruguay,GUILLERMO NIELLI,6096,503,South America
+United States,LOGAN FREY,6099,504,North America
+Serbia,MILOS JOVIC,6101,505,Europe
+Canada,RAPHAEL MAHEUX,6110,506,North America
+France,DUMONT JEREMY,6110,506,Europe
+Italy,ANDREA RUSSO,6123,508,Europe
+Brazil,VINICIUS STOELBEN,6127,509,South America
+Sweden,TIM HOLMGREN,6140,510,Europe
+United States,JOE CATES,6151,511,North America
+Australia,JOHANN VAN ZYL,6175,512,Oceania
+United States,CASEY VIATOR,6185,513,North America
+Spain,ALEJANDRO OCANA GARCIA,6191,514,Europe
+Mexico,DANIEL HARO,6196,515,North America
+Brazil,GILSON DUARTE,6200,516,South America
+United States,JAYLOND FRANKLIN,6213,517,North America
+United States,SETH PROCHAZKA,6214,518,North America
+United States,CAMERON RANDALL,6220,519,North America
+South Africa,JUSTIN SWART,6235,520,Africa
+Italy,ANDREA FERRERO,6235,520,Europe
+Australia,ROYCE DUNNE,6245,522,Oceania
+United States,SELVAN RAMJATTAN,6248,523,North America
+Spain,ALEXANDER ANASAGASTI,6273,524,Europe
+"Korea, Republic of",YOUNGSAN CHOI,6285,525,Asia
+France,OLIVIER BONINO,6293,526,Europe
+United Arab Emirates,MAHMOOD SHALAN,6298,527,Asia
+United States,BRYAN WONG,6311,528,North America
+Germany,ODO FEDEROLF,6318,529,Europe
+United Kingdom,STEVEN FAWCETT,6322,530,Europe
+Mexico,ANTONIO BURGUETE,6332,531,North America
+United States,MARCO ALEJANDRO,6337,532,North America
+United States,WILLIAM LEAHY,6340,533,North America
+Portugal,RENATO MARTINS,6343,534,Europe
+United States,ADAM OSMOE,6345,535,North America
+Russian Federation,MAXIM MAKAROV,6353,536,Asia
+United States,STEPHEN WALLACE,6357,537,North America
+United States,MATT SHEA,6378,538,North America
+Mexico,DIEGO FLORES,6388,539,North America
+United Kingdom,SAM PARKIN,6393,540,Europe
+United States,COLIN SCHMIDT,6395,541,North America
+United States,JOSH MARUNDE,6409,542,North America
+France,KÉVIN LORANT,6421,543,Europe
+Canada,ADAM DE JONG,6428,544,North America
+United States,DAN HARDIMAN,6457,545,North America
+United Kingdom,STEFAN LITTLE,6475,546,Europe
+"Korea, Republic of",KIM JINSAM,6478,547,Asia
+Australia,JOHN CHAMPION,6481,548,Oceania
+Canada,SIMON PAQUETTE,6481,548,North America
+United States,CODY KEATHLEY,6486,550,North America
+Lithuania,JULIUS JALOVECKAS,6493,551,Europe
+Australia,COREY ALLEN,6497,552,Oceania
+Denmark,VIKTOR MUENTER,6525,553,Europe
+United States,COOPER BESOUGLOFF,6536,554,North America
+Austria,MANUEL SCHRAMMEL,6539,555,Europe
+Guatemala,YAGO FREIRE,6550,556,North America
+Peru,JOVALDO MIRANDA,6557,557,South America
+United States,CHRIS PAYE,6576,558,North America
+United States,JAKE STULTS,6601,559,North America
+Canada,ANDRICK FOURNIER,6606,560,North America
+New Zealand,ASH ROOZENDAAL,6613,561,Oceania
+United States,MATTHEW LEE,6616,562,North America
+Canada,DAVID CASAULT,6618,563,North America
+France,BISSON MAXIME,6621,564,Europe
+United States,STEPHEN NEER,6621,564,North America
+Russian Federation,ILYAS KULIEV,6667,566,Asia
+Poland,MARIUSZ SUCHY,6670,567,Europe
+United States,BRIAN YEUNG,6675,568,North America
+Spain,JOSE MARIA ARRIAGA,6681,569,Europe
+United States,KYLE PIGNATIELLO,6687,570,North America
+United Kingdom,JAK CORNTHWAITE,6697,571,Europe
+Mexico,JOSE DIAZ,6731,572,North America
+Spain,CALUM CLEMENTS,6740,573,Europe
+United States,LAMBROS ISMAIL,6749,574,North America
+United States,JONATHAN WALL,6759,575,North America
+Spain,JORGE BOBADILLA,6776,576,Europe
+Finland,JANNE KAKARINEN,6778,577,Europe
+United States,JAY ADAMS,6778,577,North America
+United States,CHRISTOPHER KELLY,6784,579,North America
+Israel,EITAN LIEBERMAN,6792,580,Asia
+United States,TREVOR HAGGARD,6796,581,North America
+United States,TYLER LLOYD,6801,582,North America
+United States,TRISTAN HARRISON,6804,583,North America
+United States,SARIN SUVANASAI,6822,584,North America
+United States,LEE SHARUM,6838,585,North America
+Germany,MAX KELLER,6846,586,Europe
+Canada,JONATHAN GIBBONS,6848,587,North America
+United States,MATT CALCAGNINI,6851,588,North America
+Argentina,IVAN VERDUN,6859,589,South America
+United Kingdom,LUKE BRERETON,6864,590,Europe
+Russian Federation,RUSLAN MIFTAKHOV,6879,591,Asia
+"Korea, Republic of",SUNJAE HAN,6879,591,Asia
+Kazakhstan,ARTYOM MATSAK,6886,593,Asia
+Kuwait,NASSER ALRUWAYEH,6916,594,Asia
+Venezuela,MARIO SANTAELLA,6920,595,South America
+Slovakia,PAVEL FRAJDT,6920,595,Europe
+Panama,ALAIN DAVIDSON,6935,597,North America
+Poland,BARTEK LIPKA,6947,598,Europe
+Portugal,ANDRE AZEVEDO,6950,599,Europe
+New Zealand,DENE FLUDE,6962,600,Oceania
+United States,CHASE DAVIS,6972,601,North America
+United Kingdom,MURTAZA NADEEM,6995,602,Europe
+Russian Federation,VLADIMIR KOZLOV,6995,602,Asia
+United States,ALEX ARNOLD,6998,604,North America
+United States,TYLER FRIESE,7001,605,North America
+United States,PATRICK O'CONNELL,7001,605,North America
+Australia,WILLIAM KEARNEY,7002,607,Oceania
+United States,LEVI ANDERSON,7002,607,North America
+Canada,NICHOLAS ANAPOLSKY,7013,609,North America
+United States,ROBERT FOWLER,7014,610,North America
+United States,MICAH CASPER,7047,611,North America
+Uruguay,NICOLÁS CANIL,7067,612,South America
+United States,SAM DEMEESTER,7069,613,North America
+"Korea, Republic of",HYUKSAN KWON,7071,614,Asia
+Switzerland,YANNIK HALLER,7073,615,Europe
+Canada,JONATHAN DUBE,7085,616,North America
+Australia,JOSH MCMAHON,7092,617,Oceania
+United States,CHRIS DUNN,7098,618,North America
+Italy,GIAN LORENZO LUCCHESI,7103,619,Europe
+Greece,DIMITRIS PAPATHANASIOU,7111,620,Europe
+Australia,TOM LENGYEL,7119,621,Oceania
+United States,DAVID KERRY COFER,7128,622,North America
+United States,ANTON FOSS,7135,623,North America
+Portugal,ANTONIO BARRIAS,7136,624,Europe
+Russian Federation,DANIIL ERMOLAEV,7145,625,Asia
+Canada,BRENDAN WILLIS,7152,626,North America
+Italy,FEDERICO MARRA,7160,627,Europe
+United States,TONY LAUTERS,7161,628,North America
+South Africa,DAMIAN BURNS,7162,629,Africa
+Belgium,KEN GEVERS,7168,630,Europe
+United States,JASON BRUM,7179,631,North America
+United States,TY LARAMIE,7188,632,North America
+Canada,PATRICK TREMBLAY,7188,632,North America
+United States,JUSTIN JINDRA,7218,634,North America
+Canada,PATRICK COLOMB,7220,635,North America
+Australia,LACHLAN BISSHOPP,7225,636,Oceania
+Italy,STEFANO MIGLIORINI,7236,637,Europe
+United States,IAN HINKAMPER,7236,637,North America
+United States,CULLEN BLAND,7242,639,North America
+United States,SAM DANCER,7253,640,North America
+United States,TANNER STURM,7254,641,North America
+France,CALZADO MAXIME,7281,642,Europe
+"Korea, Republic of",EREN KIM,7281,642,Asia
+Cyprus,FEIDIAS PSILOGENI,7295,644,Europe
+Spain,JAVI BUSTOS MURILLO,7301,645,Europe
+Sweden,DENNIS ANDERSSON,7306,646,Europe
+United States,LUKE BURNS,7313,647,North America
+United States,MITCHEL KIDA,7323,648,North America
+"Korea, Republic of",SO JOONGHAN,7335,649,Asia
+United Kingdom,TOM THIELE,7352,650,Europe
+Ecuador,SEBASTIAN RODRIGUEZ,7366,651,South America
+United States,EVAN GARRISON,7388,652,North America
+Netherlands,JOHANUS BAKHUIS,7407,653,Europe
+Argentina,IVAN GAITAN,7411,654,South America
+United States,GIORGIO SARKIS,7421,655,North America
+Ireland,TADHG LAWLESS,7451,656,Europe
+Spain,DANI SOLER BORREGO,7454,657,Europe
+United States,ALEXANDER MAJORS,7467,658,North America
+Canada,JOSH KAPACILA,7468,659,North America
+United States,TREVOR JAMES,7488,660,North America
+Australia,ALESSIO ANGELUCCI,7510,661,Oceania
+Brazil,FERNANDO GONÇALVES,7535,662,South America
+Italy,NICOLA PETRUZZI,7548,663,Europe
+New Zealand,TREMAINE JENSEN,7577,664,Oceania
+United States,JAMES RILEY,7583,665,North America
+United States,DRAKE LEWIS,7588,666,North America
+Japan,YASUHIRO UCHIBORI,7605,667,Asia
+United States,JACK ROZEMA,7608,668,North America
+Russian Federation,ANDREY FEDOTOV,7624,669,Asia
+Canada,CARTER DIEDERICH,7630,670,North America
+New Zealand,KENDALL PETERSON,7637,671,Oceania
+Spain,ASIER SANCHEZ,7640,672,Europe
+United States,COOPER WISE,7648,673,North America
+Poland,MILOSZ STAWORZYNSKI,7649,674,Europe
+United Kingdom,DAVID WIGGIN,7658,675,Europe
+Nicaragua,KERRY VALLE,7658,675,North America
+United States,MATTHEW MARTINEZ,7659,677,North America
+Iceland,FANNAR HAFSTEINSSON,7663,678,Europe
+Sweden,DAVID KALLEBÄCK,7686,679,Europe
+United States,MITCHELL SANCHEZ,7687,680,North America
+United States,NATHAN GARCIA,7691,681,North America
+Jordan,AMIN ATTALLAH,7723,682,Asia
+United States,JACOB CLARK,7738,683,North America
+Iceland,SIGURÐUR ÞRASTARSON,7742,684,Europe
+Sweden,ALEXANDER ELEBRO,7754,685,Europe
+Brazil,DANIEL LATTANZIO,7761,686,South America
+United Kingdom,ALEX YOUNGER,7778,687,Europe
+United States,NICK MARTIN,7783,688,North America
+United States,RYAN STREET,7788,689,North America
+Spain,FRANCESC GARRIGA BALTRONS,7803,690,Europe
+United States,TAYLOR KING,7807,691,North America
+United States,JOSH PETLOWANY,7807,691,North America
+Sweden,CHARLIE KARLSSON,7811,693,Europe
+Egypt,ABDELRAHMAN ABDULLAH,7850,694,Africa
+Canada,ANDREW MAXNER,7867,695,North America
+United States,ANTHONY RE,7883,696,North America
+Finland,MIKKO ARONPÄÄ,7887,697,Europe
+United States,MIKE NEEDLEMAN,7889,698,North America
+Spain,JESUS RUIZ,7905,699,Europe
+South Africa,RICHARD SMITH,7917,700,Africa
+United States,PAUL DELANOY,7940,701,North America
+Russian Federation,ANTON YAKOVLEV,7948,702,Asia
+Australia,ETHAN VAN DER VELDEN,7959,703,Oceania
+United Kingdom,SAM ROBINSON,7974,704,Europe
+United States,BRIAN STITES,7975,705,North America
+United States,TYLER TOSUNIAN,7978,706,North America
+New Zealand,LUKE WATERHOUSE,7988,707,Oceania
+Austria,DANIEL JAHN,7994,708,Europe
+United States,JORDAN CHOVANEC,7995,709,North America
+Canada,PHIL CRESS,8004,710,North America
+"Korea, Republic of",LIM WOOYOUNG,8015,711,Asia
+United States,JOSEPH VACHON,8035,712,North America
+France,NICOLAS SANCHEZ,8041,713,Europe
+New Zealand,JACK CAMPBELL,8048,714,Oceania
+United Kingdom,JAMES STRUDWICK,8055,715,Europe
+Canada,JHOAN FALCON,8060,716,North America
+Serbia,BORIS JUDIN,8081,717,Europe
+Canada,JACK FARLOW,8097,718,North America
+United States,BRIAN BURR,8098,719,North America
+Italy,ISACCO MARTUFI,8109,720,Europe
+Spain,JAVIER GONZALEZ,8114,721,Europe
+Australia,ROBERT BROWN,8120,722,Oceania
+United States,MATT KYSER,8144,723,North America
+United States,JOHNATHON BOHNERT,8159,724,North America
+Australia,JAMES NEWBURY,8162,725,Oceania
+Canada,SAMUEL PROULX,8184,726,North America
+United States,LOREN CROWDER,8211,727,North America
+France,SANNA DINO,8249,728,Europe
+United States,DOMINICK MAURICI,8252,729,North America
+United States,CORY BUERCK,8253,730,North America
+Australia,LUKE MCMAHON,8256,731,Oceania
+United States,MATHEW MACDONALD,8282,732,North America
+France,LIONEL BOURRIN,8282,732,Europe
+Sweden,DAVID SANTA CRUZ BORGSTRAND,8287,734,Europe
+Spain,XABI LOPEZ,8291,735,Europe
+Australia,AARON OSBORNE,8295,736,Oceania
+United States,KYLER HARRIS,8303,737,North America
+Czech Republic,KAREL TICHÝ,8308,738,Europe
+United States,JAMES KIM,8310,739,North America
+United States,ARIEL FERNANDEZ,8315,740,North America
+United States,NATHAN MOORE,8319,741,North America
+United States,RODERICK HOLLOWAY,8320,742,North America
+South Africa,TRENT WILLIAMS,8321,743,Africa
+New Zealand,TOBIAS ADLAM,8322,744,Oceania
+Italy,VALERIO TUFO,8323,745,Europe
+Mexico,ALBERTO ARREDONDO SANCHEZ,8335,746,North America
+United States,DR JUSTIN LEE,8350,747,North America
+United Kingdom,JAMES LEWIS,8360,748,Europe
+Switzerland,LORENZO MACRÌ,8369,749,Europe
+France,LUCIEN FABER,8372,750,Europe
+Canada,ANTHONY MOSHER,8381,751,North America
+United States,RYAN JEVNING,8402,752,North America
+United States,BRANDON KESSLER,8404,753,North America
+South Africa,JOHAN VAN DEVENTER,8415,754,Africa
+Brazil,TARCIO SANTOS FERREIRA,8432,755,South America
+United Kingdom,SIMON GREENWOOD,8435,756,Europe
+United States,BEN VAN PELT,8438,757,North America
+Sweden,MARTIN TUNHAG,8447,758,Europe
+United Kingdom,HARRY KEAN,8456,759,Europe
+Argentina,AGUSTIN EZEQUIEL GUIÑAZU,8471,760,South America
+Australia,MITCHELL SINNAMON,8478,761,Oceania
+Canada,JEFFREY DUPUIS,8503,762,North America
+United States,BRANDON GARCIA,8506,763,North America
+South Africa,RUAN CONRADIE,8508,764,Africa
+United States,NICHOLAS URANKAR,8524,765,North America
+Slovakia,FRANTIŠEK HERIBÁN,8527,766,Europe
+France,JEAN-CHARLES DESVIGNES,8528,767,Europe
+United States,DAVID EMISON,8531,768,North America
+Australia,CJ WALKER,8548,769,Oceania
+United States,JOE GONROWSKI,8551,770,North America
+United States,GARRETT STARR,8554,771,North America
+United States,KEVIN RIGHI,8557,772,North America
+United States,GAGE BARONE,8577,773,North America
+Spain,FELIX SOBRON,8580,774,Europe
+United States,NATHANIEL OLSEN,8581,775,North America
+United States,COLIN HOUGHTON,8592,776,North America
+Ecuador,PAOLO ERAS,8596,777,South America
+Australia,KURT DUTTON,8599,778,Oceania
+United Kingdom,HARRISON BELL,8601,779,Europe
+United States,MATTHEW MICHAUD,8602,780,North America
+United States,STEPHEN MCLAIN,8604,781,North America
+Sweden,EDVIN ABRAMSSON,8611,782,Europe
+Spain,LUCAS GONI MONZON,8614,783,Europe
+United States,JORDAN HAYWARD,8619,784,North America
+Italy,NICOLA BONURA,8654,785,Europe
+United States,MATTHEW GREENE,8666,786,North America
+United States,JACOB HUDDLESTON,8715,787,North America
+Portugal,PEDRO LARANJEIRA,8718,788,Europe
+United States,NICK SHAFER,8719,789,North America
+Canada,DUSTIN MINTY,8720,790,North America
+United States,BEN SIMONS,8743,791,North America
+France,PIERRE DEMULE,8745,792,Europe
+New Zealand,BRYCE SHEARER,8749,793,Oceania
+United States,LOGAN JENKINS,8752,794,North America
+France,QUENTIN ANTOINE,8761,795,Europe
+Spain,RAUL ANDRES LOPEZ,8764,796,Europe
+United States,CORY STABENOW,8765,797,North America
+Japan,TOMOHIRO ITAYA,8769,798,Asia
+United States,ROBERT JOHNSON,8770,799,North America
+United States,GARY SORRENTINO,8771,800,North America
+Sweden,PHILIP LUNDQVIST,8773,801,Europe
+Sweden,ROBERT ÅKERSTRÖM,8794,802,Europe
+United Kingdom,ROBERT WAKEHAM,8808,803,Europe
+Belgium,NICOLAS BARDAX,8813,804,Europe
+China,ANT HAYNES,8814,805,Asia
+Mexico,MICHEL CORDOVA,8820,806,North America
+United States,GILBERT CARDENAS,8832,807,North America
+Argentina,TOMAS SARMIENTO,8837,808,South America
+United States,DANIEL BRACKEN,8847,809,North America
+United States,BRENDAN MOSS,8855,810,North America
+Argentina,AYRTON HORMAIZTEGUI,8858,811,South America
+Palestinian Territory,BASEL QATAMESH,8865,812,Asia
+United States,SALVADOR FLORES,8895,813,North America
+Venezuela,JOSÉ ALBORNOZ,8899,814,South America
+Brazil,RICARDO MARQUEZ,8899,814,South America
+Georgia,BEKA KVERNADZE,8903,816,Europe
+United States,ADAM DYCUS,8910,817,North America
+"Korea, Republic of",MINWOO LEE,8924,818,Asia
+Finland,MIKA SOLA,8931,819,Europe
+United States,TYLER MAHONEY,8933,820,North America
+United States,GARRICK PSICK,8940,821,North America
+United States,TRAVIS STOETZEL,8955,822,North America
+United States,ZACHARY GREER,8967,823,North America
+United States,MICHAEL RICHIE,8981,824,North America
+France,JASON THOMA,8982,825,Europe
+Spain,AARON MADRID,9014,826,Europe
+United States,ISAAC GEER,9014,826,North America
+Australia,DEAN HAYNES,9022,828,Oceania
+United States,CRAIG KENNEY,9024,829,North America
+Switzerland,JAN MATIASKA,9027,830,Europe
+"Korea, Republic of",CHUNG KEEHOON,9043,831,Asia
+Ukraine,ANDREY BOYKO,9053,832,Europe
+Brazil,JOAO PEDRO BARCELOS,9065,833,South America
+United States,SEAN SCOTT,9081,834,North America
+Argentina,GONZALO DURO,9083,835,South America
+United States,JUSTIN JACKSON,9087,836,North America
+South Africa,AJ VISSER,9089,837,Africa
+Brazil,LUCAS TRISTAO,9089,837,South America
+United States,DUKE BURK,9099,839,North America
+United States,RICHARD ESSIG,9106,840,North America
+United States,DARRIN GARDNER,9111,841,North America
+Argentina,MARTIN GONZALEZ,9115,842,South America
+United States,RYAN BRETAG,9124,843,North America
+South Africa,RUAN POTGIETER,9133,844,Africa
+Denmark,MADS ERTING,9135,845,Europe
+United States,BRANDON NOLIN,9168,846,North America
+United States,MICHAEL SPEARS,9168,846,North America
+Russian Federation,VLADISLAV ZAKHOVAEV,9168,846,Asia
+Portugal,DIOGO FREITAS,9181,849,Europe
+United States,NICHOLAS AZORR,9181,849,North America
+Switzerland,MARCO SCHWENDIMANN,9192,851,Europe
+Sweden,JAKOB NORMAN,9203,852,Europe
+United States,MIKE WAGNER,9212,853,North America
+France,ALEXIS ROMERO,9219,854,Europe
+Australia,CONOR MCGRATH,9223,855,Oceania
+United States,TANNER DIXON,9237,856,North America
+Italy,ALESSANDRO ZANET,9259,857,Europe
+Norway,MORTEN RASCH ARNESEN,9263,858,Europe
+Australia,MITCHELL CASE,9270,859,Oceania
+United Kingdom,CHRIS MASON,9278,860,Europe
+United States,JUSTIN HOLLAND,9288,861,North America
+South Africa,DEVIN RAMSDEN,9299,862,Africa
+Brazil,ANDERSON GUIMARAES,9301,863,South America
+Italy,GIULIO SILVINO,9316,864,Europe
+United States,KADE HARRINGTON,9318,865,North America
+Australia,PETER ELLIS,9340,866,Oceania
+United States,SHAWN GOODRICH,9351,867,North America
+Brazil,MURILO SILVA,9354,868,South America
+Australia,HENRY CARLILE,9361,869,Oceania
+United States,JOE SCHMIDT,9379,870,North America
+Germany,ALEXANDER SCHMITT,9380,871,Europe
+United States,AARON RABIN,9406,872,North America
+United States,MANNY MARTINEZ-ARIAS,9415,873,North America
+Czech Republic,ONDREJ POKORNY,9422,874,Europe
+United States,CORBIN WELCH,9436,875,North America
+Italy,FEDERICO VERO,9443,876,Europe
+Finland,TOPIAS ROMO,9445,877,Europe
+Brazil,JOÃO VITOR BECHARA,9452,878,South America
+Spain,JOKIN RAMOS,9458,879,Europe
+United Kingdom,TOM WATSON,9471,880,Europe
+Russian Federation,PETR KIRIOGLO,9484,881,Asia
+Switzerland,MARECK BIGLER,9493,882,Europe
+United States,JORDAN ZERVA,9494,883,North America
+Colombia,JHON SEBASTIAN MENDOZA MONSALVE,9495,884,South America
+New Zealand,DONALD WILLIAMS,9506,885,Oceania
+South Africa,EDUAN VILJOEN,9508,886,Africa
+Moldova,YURII BULAT,9512,887,Europe
+United States,TROY CLAY,9513,888,North America
+Greece,NIKOLAOS GKIOULETZERIDIS,9515,889,Europe
+Australia,TIM GOOD,9528,890,Oceania
+Brazil,VITOR CAETANO,9532,891,South America
+New Zealand,DYLAN MITAI,9541,892,Oceania
+United States,JOHN MAYFIELD,9561,893,North America
+United States,LUKE CUNEO,9574,894,North America
+France,PIERRE HAON,9574,894,Europe
+Brazil,EDER COSTA,9587,896,South America
+Brazil,IGOR DUARTE,9594,897,South America
+United States,JOSH HABECK,9598,898,North America
+Russian Federation,AMIROV ANVAR,9601,899,Asia
+Norway,CHRISTIAN JENSEN,9616,900,Europe
+Russian Federation,OLEG KRIVTSOV,9624,901,Asia
+United States,JUSTIN KING,9626,902,North America
+United Kingdom,ALEX MILLINGTON,9638,903,Europe
+United States,BRAYDAN DIDDLE,9641,904,North America
+Australia,CHRIS HOGAN,9644,905,Oceania
+Norway,EGIL HORN,9644,905,Europe
+Bahrain,MAJID AL SHARAF,9646,907,Asia
+United States,COLIN BOESCH,9650,908,North America
+United States,JAMES WOZNIAK,9653,909,North America
+Argentina,EMILIANO BONVICINI,9659,910,South America
+Norway,JOAKIM RYGH,9663,911,Europe
+United States,AUSTIN DICKINSON,9667,912,North America
+Israel,RAM DOVER,9671,913,Asia
+United States,BRANDON HEDRICK,9674,914,North America
+United States,JEFFERY MOSS,9682,915,North America
+United States,KENNETH HART,9693,916,North America
+Russian Federation,EVGENIY KUZNETSOV,9695,917,Asia
+New Zealand,RYAN MCCARTHY,9695,917,Oceania
+Canada,RAPHAEL GAUTHIER,9702,919,North America
+United States,CHANCE WHITAKER,9708,920,North America
+United States,CHRIS BEERY,9716,921,North America
+Finland,PETTERI PEURONEN,9727,922,Europe
+Denmark,MARTIN NIELSEN,9733,923,Europe
+Australia,ASHLEY FORBES,9734,924,Oceania
+United States,GUNNAR REGAN,9740,925,North America
+United Kingdom,JOSEPH MULHERN,9743,926,Europe
+France,LOUISON POIRIER,9758,927,Europe
+Brazil,LEONARDO PINTO,9759,928,South America
+United Kingdom,HARRY LIGHTFOOT,9760,929,Europe
+United States,RYAN SMITH,9763,930,North America
+Mexico,LUIS PEREZ,9774,931,North America
+United States,ZACH GALLOWAY,9778,932,North America
+Netherlands,JEREMY REIJNDERS,9789,933,Europe
+Iceland,KRISTINN INGÓLFSSON,9803,934,Europe
+United States,DILLON YOUNGMAN,9811,935,North America
+United States,JAMES SZAMSKI,9823,936,North America
+Australia,JAMES THOMAS,9824,937,Oceania
+Romania,SEVERIN IRIMIA,9826,938,Europe
+Poland,ADRIAN KUCZKOWIAK,9827,939,Europe
+United States,GIOVANNI CONTRERAS,9835,940,North America
+Kazakhstan,DANILA FOMENKO,9841,941,Asia
+Japan,TOMOHIRO OTSUKI,9848,942,Asia
+United States,RAYMOND ROMANICK,9851,943,North America
+United States,TRAVIS CARRASCO,9852,944,North America
+United States,THOMAS MCCARTHY,9858,945,North America
+Australia,SEAN BRICKWOOD,9858,945,Oceania
+United States,ANGELO DICICCO,9871,947,North America
+United States,SETH SHARRITT,9885,948,North America
+United States,BEN KETELSEN,9902,949,North America
+Norway,MARIUS OLSEN,9905,950,Europe
+India,PRINCE KHATRI,9911,951,Asia
+Netherlands,BJÄRNE TEN WOLDE,9919,952,Europe
+United States,RYAN QUINN,9929,953,North America
+Austria,DOMINIK SCHRÖPFLER,9941,954,Europe
+United States,MATTHEW BURNHAM,9941,954,North America
+United States,WAYNE ROZECKI,9946,956,North America
+United States,JEFF SCHUETTE,9948,957,North America
+Ecuador,RUBEN TORBAY YANEZ,9952,958,South America
+United Kingdom,CONOR PINNINGTON,9953,959,Europe
+United Kingdom,SEAN HARDWICK,9964,960,Europe
+"Korea, Republic of",WONPYO HONG,9965,961,Asia
+Poland,ADRIAN JURAŚ,9966,962,Europe
+United States,RYAN SEAGER,9970,963,North America
+United States,BEAR SITZER,9976,964,North America
+United States,DANIEL STERLING,9978,965,North America
+France,LUCA BUISSON,9979,966,Europe
+New Zealand,PJ TEWHAITI,9980,967,Oceania
+Uruguay,DANIEL VILLAR,9990,968,South America
+Canada,MATTHEW UREN,9993,969,North America
+Italy,FABIO FRIGERIS,10020,970,Europe
+United States,AUSTIN HATFIELD,10021,971,North America
+United States,CHRIS HEATON,10027,972,North America
+United States,TORSTEN WAURIG,10036,973,North America
+Canada,BROCK EMRICH,10038,974,North America
+South Africa,MICHAEL VAN TONDER,10045,975,Africa
+United States,ALLEN FISH,10048,976,North America
+Austria,MANUEL ZAUFL,10058,977,Europe
+Panama,GABRIEL FUNG,10062,978,North America
+Finland,JUHO SEIPÄJÄRVI,10068,979,Europe
+Denmark,KASPER DAUGAARD,10070,980,Europe
+"Korea, Republic of",YOUNG-JUN KIM,10072,981,Asia
+Australia,RUSSELL MCCLOY,10076,982,Oceania
+Sweden,LINUS BRESANDER,10090,983,Europe
+Germany,LEON WAGENKNECHT,10090,983,Europe
+Germany,MARC FUGGER,10094,985,Europe
+Spain,KÍLIAN LOTTA,10103,986,Europe
+Spain,MARC CARMONA SANTANDREU,10109,987,Europe
+United States,AARON BIELEFELDT,10120,988,North America
+Lithuania,GINTAS PETRIKAS,10143,989,Europe
+United States,ANTHONY DAVIS,10148,990,North America
+United States,NATE RIDER,10151,991,North America
+Australia,JACOB WHEELER,10165,992,Oceania
+United States,JOEL LANEY,10165,992,North America
+United States,TEANU RICKARD,10170,994,North America
+United States,MASON ZIMMERMAN,10179,995,North America
+Argentina,GERONIMO BEAUDEAN,10181,996,South America
+Mexico,ISAAC FARIAS,10182,997,North America
+United States,HUGO BOTERO,10183,998,North America
+United States,NICK THOMAS,10191,999,North America
+Brazil,LUIZ HENRIQUE ALVES MOREIRA,10193,1000,South America
