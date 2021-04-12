@@ -10,7 +10,9 @@ La actividad ha sido realizada de manera individual por **David Pulido Camacho**
 
 ## Ficheros del código fuente
 
-* **src/scraper.py**: punto de entrada al programa. Realiza el proceso de scraping.
+* **src/web_scraping.py**: punto de entrada al programa. Realiza el proceso de scraping.
+**src/dpulidoc_Practica1-web_scraping.pdf**: documento PDF con las respuestas a las preguntas.
+**src/export_dataframe.csv**: documento CSV con el dataset obtenido.
 
 
 ## Recursos
